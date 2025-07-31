@@ -1,59 +1,71 @@
 📊 Project: AdventureWorks Sales Analytics Dashboard
-Description & Purpose:
-This project features an end-to-end business intelligence dashboard built using Power BI Desktop and the AdventureWorks dataset. The goal of the project was to transform raw sales and customer data into an insightful, interactive dashboard that allows business users to monitor key performance indicators and make data-driven decisions.
+📝 Description & Purpose
+This project features an end-to-end business intelligence dashboard built using Power BI Desktop and the AdventureWorks dataset. The goal was to transform raw sales and customer data into an insightful, interactive dashboard that helps business users monitor key performance indicators and make data-driven decisions.
 
-The dashboard provides comprehensive analysis across sales performance, customer behavior, product trends, and regional profitability. It includes dynamic KPI cards, trend analysis, and comparative metrics (such as Year-over-Year growth and Year-to-Date sales) to highlight performance over time. Slicers and filters for date, region, and product category allow users to customize the insights according to their needs.
+📈 The dashboard offers comprehensive analysis across:
 
-The dashboard was designed with clean visual aesthetics and a user-friendly layout to mimic a real-world business reporting scenario.
+Sales performance
+
+Customer behavior
+
+Product trends
+
+Regional profitability
+
+It includes KPI cards, trend analysis, and comparative metrics (e.g., YoY growth, YTD sales), along with slicers and filters for date, region, and product categories to enable deep exploration of data.
+Designed with clean visual aesthetics and user-friendly layout, it replicates a real-world business reporting scenario.
 
 ✅ Key Features
-Interactive KPI Cards: Total Sales, Profit Margin, YoY Sales Growth, Customer Count
+📊 Interactive KPI Cards: Total Sales, Profit Margin, YoY Sales Growth, Customer Count
 
-Time Intelligence: Year-to-Date (YTD), Monthly Trends, Year-over-Year comparison using DAX
+📆 Time Intelligence: YTD, Monthly Trends, Year-over-Year comparison using DAX
 
-Visualizations: Bar and line charts, slicers, donut charts, data tables
+📉 Visualizations: Bar & Line Charts, Donut Charts, Slicers, Data Tables
 
-Interactivity: Dynamic filtering by Region, Product Category, Subcategory, and Time Period
+🧩 Interactivity: Dynamic filtering by Region, Product Category, Subcategory, and Time
 
-Data Modeling: Star schema with proper relationships between fact and dimension tables
+🗂️ Data Modeling: Star schema with clear fact-dimension relationships
 
-Report Design: Clean layout with consistent color scheme and logical grouping of visuals
+🎨 Report Design: Clean layout with logical grouping and consistent color schemes
 
 🛠️ Technologies Used
-Power BI Desktop: For data visualization, report creation, and publishing
+💻 Power BI Desktop – for visualization and report design
 
-DAX (Data Analysis Expressions): For creating calculated columns, measures, and time intelligence
+🧠 DAX (Data Analysis Expressions) – for calculated columns, KPIs, and time intelligence
 
-Data Modeling: Star schema design to ensure optimized performance and ease of analysis
+📐 Data Modeling (Star Schema) – for optimized structure and performance
 
-Excel Files: Used as the primary data source (imported from multiple Excel sheets)
+📊 Excel Files – used as the primary data source via Power Query
 
 📁 Data Source
-The dataset used in this project is based on the AdventureWorks sample data, a widely used dataset for demonstrating business scenarios. The data was provided in Excel (.xlsx) format, simulating transactional and dimensional data for:
+The dashboard is powered by the AdventureWorks dataset, a widely-used sample dataset in analytics and reporting. The data was sourced from Microsoft Excel (.xlsx) files representing:
 
-Sales Orders
+🧾 Sales Orders
 
-Products and Categories
+📦 Products and Categories
 
-Customers and Regions
+👥 Customers and Regions
 
-Date/Calendar data
+🗓️ Date/Calendar Tables
 
-Excel files were connected to Power BI and transformed using Power Query before building the data model.
+Power Query was used to clean, transform, and load data into a star schema model before analysis.
 
 🎯 Use Case
 This dashboard is ideal for:
 
-Sales managers and business analysts tracking sales KPIs
+👨‍💼 Sales managers and analysts tracking KPIs
 
-Executives needing a snapshot of regional or product-based performance
+🧑‍💻 Executives reviewing performance by region and product
 
-Anyone learning Power BI who wants to see how to build a complete BI solution from raw Excel files to a polished report
+📚 Students and professionals learning Power BI with a real-world project
 
-Screenshots / Demos
+### 🖼️ Screenshots / Demo Pages
 
-Executive Dashboard = https://github.com/MajesticMiner21/AdventureworksReport/blob/main/Executive%20Dashboard%20.png
+#### 📊 Executive Dashboard
+![Executive Dashboard](https://github.com/MajesticMiner21/AdventureworksReport/blob/main/Executive%20Dashboard%20.png)
 
-Product Detail Page = https://github.com/MajesticMiner21/AdventureworksReport/blob/main/Product%20Detail%20page.png
+#### 🛒 Product Detail Page
+![Product Detail Page](https://github.com/MajesticMiner21/AdventureworksReport/blob/main/Product%20Detail%20page.png)
 
-Customer Detail Page = https://github.com/MajesticMiner21/AdventureworksReport/blob/main/Customer%20Detail%20page.png
+#### 👤 Customer Detail Page
+![Customer Detail Page](https://github.com/MajesticMiner21/AdventureworksReport/blob/main/Customer%20Detail%20page.png)
