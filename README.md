@@ -53,5 +53,7 @@ Anyone learning Power BI who wants to see how to build a complete BI solution fr
 Screenshots / Demos
 
 Executive Dashboard = https://github.com/MajesticMiner21/AdventureworksReport/blob/main/Executive%20Dashboard%20.png
+
 Product Detail Page = https://github.com/MajesticMiner21/AdventureworksReport/blob/main/Product%20Detail%20page.png
+
 Customer Detail Page = https://github.com/MajesticMiner21/AdventureworksReport/blob/main/Customer%20Detail%20page.png
