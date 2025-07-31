@@ -49,3 +49,7 @@ Sales managers and business analysts tracking sales KPIs
 Executives needing a snapshot of regional or product-based performance
 
 Anyone learning Power BI who wants to see how to build a complete BI solution from raw Excel files to a polished report
+
+Screenshots / Demos
+
+Executive Dashboard = https://github.com/MajesticMiner21/AdventureworksReport/blob/main/Executive%20Dashboard%20.png
